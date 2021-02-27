@@ -1,0 +1,14 @@
+*.elf
+*.hex
+*.i
+*.o
+*.out
+*.res
+*.s
+*.su
+*.lst
+*.map
+*.lto_wrapper_args
+
+build
+
